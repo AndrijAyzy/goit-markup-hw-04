@@ -29,6 +29,7 @@ html {
 
 .header-list {
     display: flex;
+    font-family: 'Roboto' sans-serif;
     align-items: center;
     padding: 0px;
     margin: 0px;
@@ -49,7 +50,6 @@ html {
     
     font-size: 16px;
     line-height: 24px;
-    font-family: 'Roboto';
     font-style: normal;
     font-weight: 500;
     font-size: 16px;
@@ -88,6 +88,7 @@ html {
 
 .header-logo {
     display: flex;
+    font-family: 'Raleway' sans-serif;
     flex-direction: row;
     align-items: flex-start;
     padding: 0px;
@@ -97,7 +98,7 @@ html {
 }
 
 .header-logo-web {
-    font-family: 'Raleway';
+    font-family: 'Raleway' sans-serif;
     font-style: normal;
     font-size: 18px;
     line-height: 24px;
@@ -111,7 +112,7 @@ html {
 }
 
 .header-logo-studio {
-    font-family: 'Raleway';
+    font-family: 'Raleway' sans-serif;
     font-style: normal;
     font-size: 18px;
     line-height: 24px;
@@ -259,7 +260,6 @@ html {
 
 .section-second {
     padding-bottom: 120px;
-    padding-top: 112px;
 }
 
 .section-first-top {
@@ -496,6 +496,7 @@ html {
 
 .footer-logo {
     display: flex;
+    font-family: 'Raleway' sans-serif;
     flex-direction: row;
     align-items: flex-start;
     padding: 0px;
@@ -560,7 +561,7 @@ html {
 }
 
 .footer-logo-web {
-    font-family: 'Raleway';
+    font-family: 'Raleway' sans-serif;
     font-style: normal;
     font-size: 18px;
     line-height: 24px;
@@ -578,7 +579,7 @@ html {
 }
 
 .footer-logo-studio {
-    font-family: 'Raleway';
+    font-family: 'Raleway' sans-serif;
     font-style: normal;
     font-size: 18px;
     line-height: 24px;
