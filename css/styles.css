@@ -9,7 +9,7 @@ html {
 }
 
 .body {
-    font-family: 'Roboto';
+    font-family: 'Roboto', sans-serif;
     font-style: normal;
     font-weight: 500;
     font-size: 16px;
@@ -29,7 +29,7 @@ html {
 
 .header-list {
     display: flex;
-    font-family: 'Roboto' sans-serif;
+    font-family: 'Roboto', sans-serif;
     align-items: center;
     padding: 0px;
     margin: 0px;
@@ -88,8 +88,8 @@ html {
 
 .header-logo {
     display: flex;
-    font-family: 'Raleway' sans-serif;
     flex-direction: row;
+    font-family: 'Raleway' sans-serif;
     align-items: flex-start;
     padding: 0px;
     margin-right: 76px;
@@ -104,10 +104,12 @@ html {
     line-height: 24px;
     font-weight: 800;
     text-transform: uppercase;
+
     display: flex;
     align-items: center;
     letter-spacing: 0.03em;
     text-transform: uppercase;
+
     color: #4D5AE5;
 }
 
@@ -118,10 +120,12 @@ html {
     line-height: 24px;
     font-weight: 800;
     text-transform: uppercase;
+
     display: flex;
     align-items: center;
     letter-spacing: 0.03em;
     text-transform: uppercase;
+    
     color: #2E2F42;
 }
 
@@ -566,8 +570,6 @@ html {
     font-size: 18px;
     line-height: 24px;
     font-weight: 800;
-    font-size: 18px;
-    line-height: 24px;
     text-transform: uppercase;
 
     display: flex;
@@ -581,8 +583,6 @@ html {
 .footer-logo-studio {
     font-family: 'Raleway' sans-serif;
     font-style: normal;
-    font-size: 18px;
-    line-height: 24px;
     font-weight: 800;
     font-size: 18px;
     line-height: 24px;
