@@ -19,7 +19,7 @@ html {
 
 .header {
     border-bottom: 1px solid #ececec; 
-    font-family: 'Roboto' sans-serif;
+    font-family: 'Roboto', sans-serif;
     font-style: normal;
     text-align: center;
     display: flex;
@@ -89,7 +89,7 @@ html {
 .header-logo {
     display: flex;
     flex-direction: row;
-    font-family: 'Raleway' sans-serif;
+    font-family: 'Raleway', sans-serif;
     align-items: flex-start;
     padding: 0px;
     margin-right: 76px;
@@ -98,15 +98,10 @@ html {
 }
 
 .header-logo-web {
-    font-family: 'Raleway' sans-serif;
+    font-family: 'Raleway', sans-serif;
     font-style: normal;
     font-size: 18px;
-    line-height: 24px;
     font-weight: 800;
-    text-transform: uppercase;
-
-    display: flex;
-    align-items: center;
     letter-spacing: 0.03em;
     text-transform: uppercase;
 
@@ -114,15 +109,11 @@ html {
 }
 
 .header-logo-studio {
-    font-family: 'Raleway' sans-serif;
+    font-family: 'Raleway', sans-serif;
     font-style: normal;
     font-size: 18px;
-    line-height: 24px;
+    width: 71px;
     font-weight: 800;
-    text-transform: uppercase;
-
-    display: flex;
-    align-items: center;
     letter-spacing: 0.03em;
     text-transform: uppercase;
     
@@ -500,7 +491,7 @@ html {
 
 .footer-logo {
     display: flex;
-    font-family: 'Raleway' sans-serif;
+    font-family: 'Raleway', sans-serif;
     flex-direction: row;
     align-items: flex-start;
     padding: 0px;
@@ -565,12 +556,11 @@ html {
 }
 
 .footer-logo-web {
-    font-family: 'Raleway' sans-serif;
+    font-family: 'Raleway', sans-serif;
     font-style: normal;
     font-size: 18px;
     line-height: 24px;
     font-weight: 800;
-    text-transform: uppercase;
 
     display: flex;
     align-items: center;
@@ -581,12 +571,11 @@ html {
 }
 
 .footer-logo-studio {
-    font-family: 'Raleway' sans-serif;
+    font-family: 'Raleway', sans-serif;
     font-style: normal;
     font-weight: 800;
     font-size: 18px;
     line-height: 24px;
-    text-transform: uppercase;
 
     display: flex;
     align-items: center;
